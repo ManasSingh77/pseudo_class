@@ -1,0 +1,14 @@
+h1:hover{
+    color:red;
+    box-shadow: 10px,10px,10px purple;
+}
+input:focus{
+    background-color: khaki;
+}
+a{
+    color:rgb(170, 24, 49);
+}
+a:active{
+    color:cadetblue;
+    font-size: 30px;
+}
